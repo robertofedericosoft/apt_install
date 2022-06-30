@@ -1,1 +1,2 @@
 export PATH="/usr/games:$PATH"
+apt list --upgradable > pkg.txt
