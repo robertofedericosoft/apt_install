@@ -1,3 +1,4 @@
 lolcat
 cowsay
 ruby	
+snapd
