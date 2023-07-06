@@ -2,3 +2,4 @@ lolcat
 cowsay
 ruby	
 snapd
+build-essential
